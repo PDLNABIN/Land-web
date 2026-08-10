@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+langchain==0.1.13
+langchain-community==0.0.38
+langchain-google-genai==1.0.1
+langchain-text-splitters==0.0.2
+faiss-cpu
+google-genai
+markdown==3.6
+pydantic==2.7.4
+pydantic-core==2.18.4
+python-dotenv==1.0.1
